@@ -1,0 +1,23 @@
+{
+  "name": "prickly-pears",
+  "version": "1.0.0",
+  "description": "Adding this as a basis for a self hosted personal website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smileyspencer/prickly-pears.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smileyspencer/prickly-pears/issues"
+  },
+  "homepage": "https://github.com/Smileyspencer/prickly-pears#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
