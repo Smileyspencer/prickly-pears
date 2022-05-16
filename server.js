@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
     </head>
     <body style="background-color:yellow;">
-        <div style="font-family: 'Montserrat', serif;">I think this font is nice.</div>
+        <div style="font-family: 'Montserrat', serif;">I have a fucking website!\nTim Spencer</div>
     </body>
     </html>
     `);
