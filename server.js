@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     <head>
         <title>Raspberry Pi</title>
     </head>
-    <body>
+    <body style="background-color:yellow;">
         <h1>Welcome</h1>
     </body>
     </html>
