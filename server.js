@@ -8,9 +8,11 @@ app.get('/', (req, res) => {
     <html lane="en">
     <head>
         <title>Raspberry Pi</title>
+        <!-- Fonts -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
     </head>
     <body style="background-color:yellow;">
-        <h1>Welcome hello</h1>
+        <div style="font-family: 'Montserrat', serif;">I think this font is nice.</div>
     </body>
     </html>
     `);
