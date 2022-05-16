@@ -12,7 +12,8 @@ app.get('/', (req, res) => {
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
     </head>
     <body style="background-color:yellow;">
-        <div style="font-family: 'Montserrat', serif;">I have a fucking website!\nTim Spencer</div>
+        <div style="font-family: 'Montserrat', serif;">I have a fucking website!</div>
+        <div style="font-family: 'Montserrat', serif;">- Tim Spencer</div>
     </body>
     </html>
     `);
